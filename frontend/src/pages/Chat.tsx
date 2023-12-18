@@ -149,8 +149,7 @@ const Chat = () => {
 				<img alt='no msg bot' src={noMsgBot}></img>
 			</motion.div>
 			<p>
-				It's quiet in here! Be the first to break the silence and send a message
-				to get the conversation going.
+			It's peaceful around here! Drop a message to kickstart the chat and inquire about anything on your mind. You'll receive the answers you're seeking.
 			</p>
 		</div>
 	);

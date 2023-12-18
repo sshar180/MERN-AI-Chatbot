@@ -27,7 +27,7 @@ app.use("/api/chat/", chatRoutes);
 // Connections and Listeners
 mongoose
 	.connect(
-		`mongodb+srv://<User>:<Password>@cluster0.aqm33es.mongodb.net/MyGPT`
+		`mongodb+srv://SHUBHAM:Shubham1@cluster0.aqm33es.mongodb.net/MyGPT`
 	)
 	.then(() => {
 		app.listen(process.env.PORT || 5000);

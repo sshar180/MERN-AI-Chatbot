@@ -101,6 +101,11 @@ Before running the application, configure the necessary settings.
 
 
 
+## Platform 
 
-
+![Alt text](image-1.png)
+![Alt text](image.png)
+![Alt text](<Screenshot 2023-12-17 at 6.23.53 PM.png>)
+![Alt text](image-3.png)
+![Alt text](image-2.png)
 
