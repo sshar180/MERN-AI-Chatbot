@@ -1,0 +1,46 @@
+.top 
+{
+    width: 100vw;
+    height: 97vh;
+    display: flex;
+	flex-direction: row;
+}
+
+.top > div
+{
+
+    overflow: hidden;
+    width: 50vw;
+
+}
+
+.d1
+{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    padding-left: 10%;
+    padding-right: 10%;
+    height: 100%;
+    width: 50vw;
+}
+.d2
+{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-right: 10%;
+    height: 100%;
+    width: 50vw;
+
+}
+
+.d2 img{
+        max-width: 100%; /* Set the maximum width of the image to 100% of its container */
+        max-height: 75%; /* Set the maximum height of the image to 100% of its container */
+        width: auto; /* Allow the image to scale with its aspect ratio */
+        height: auto; /* Allow the image to scale with its aspect ratio */
+        display: block; /* Remove any default inline spacing */
+        margin: 0 auto; /* Center the image horizontally within the container */
+}
